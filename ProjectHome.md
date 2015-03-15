@@ -1,0 +1,3 @@
+This project is a program that will allow users to track their commute length, along with what routes they took and when they left. The idea is that it will help users get a better idea of how long it takes them to go places, taking the time of day and route used into account.
+
+This project is for a class project. If you are not on the project team and you happened to stumble across it, please leave it alone until the end of December. Then feel free to contribute.
